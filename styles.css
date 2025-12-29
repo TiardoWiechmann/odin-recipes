@@ -1,0 +1,24 @@
+h1 {
+    background-color: rgb(226, 156, 43);
+    border: 6px solid rgb(92, 0, 128);
+    text-align: center;
+    padding: 20px;
+    font-family:  helvetica, serif;
+}
+
+div {
+    background-color: hsla(214, 100%, 50%, 0.5);
+    padding: 20px 30px;
+    margin-bottom: 10px;
+    border: 5px solid black;
+}
+
+a {
+    color: white;
+    font-family:  helvetica, serif;
+}
+
+
+body {
+    background-color: blanchedalmond;
+}
